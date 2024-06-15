@@ -1,6 +1,6 @@
 # A PyTorch Implementation of PDMIPL
 
-This is a PyTorch implementation of our paper "A Generative Probabilistic Disambiguation Model for Multi-Instance Partial-Label Learning"
+This is a PyTorch implementation of our paper "PROMIPL: A Generative Probabilistic Disambiguation Model for Multi-Instance Partial-Label Learning"
 
 
 ## Requirements
